@@ -23,6 +23,14 @@ This project demonstrates how to:
 
 ---
 
-## 📂 Folder Structure (Optional)
+## ✅ Outcome
 
+By the end of this project, you’ll have:
 
+- A fully functional **Windows domain** setup in a virtual environment  
+- **Dynamic IP address allocation** using DHCP  
+- **Name resolution** with properly configured forward and reverse DNS zones  
+
+---
+
+> 🔐 Ideal for beginners and students looking to get hands-on with Windows Server administration in a lab environment.
