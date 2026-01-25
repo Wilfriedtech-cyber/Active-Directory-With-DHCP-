@@ -48,7 +48,8 @@ This is a **small foundational network**, which I plan to **expand over time**.
 
 ## 🧩 Network Topology
 
-<img width="717" height="504" alt="image" src="https://github.com/user-attachments/assets/35860b41-c95f-488d-a637-d58fb6065be6" />
+<img width="1392" height="718" alt="image" src="https://github.com/user-attachments/assets/ca981c11-3f2e-4231-9660-74719901909d" />
+
 
 > *Diagram overview of the lab environment and log flow.*
 
